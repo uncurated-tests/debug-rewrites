@@ -24,7 +24,7 @@ const nextConfig = {
       {
         source: "/youtube",
         destination:
-          "https://youtube.com/@stey",
+          "https://www.youtube.com/@stey",
       },
     ];
   },
