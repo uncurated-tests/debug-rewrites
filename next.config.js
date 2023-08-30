@@ -19,6 +19,11 @@ const nextConfig = {
         destination:
           "https://winfakt.retool.com/embedded/public/b8088c16-7409-4daf-989a-689bdb221371",
       },
+      {
+        source: "/api/experiments",
+        destination:
+          "https://winfakt.retool.com/api/experiments",
+      },
       // URL: https://debug-rewrites.vercel.app/youtube
       // Issue: The link redirects instead of rewrites
       {
